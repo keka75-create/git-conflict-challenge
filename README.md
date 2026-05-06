@@ -1,1 +1,1 @@
-# git-conflict-challenge
+# git-conflit-challenge ;)
