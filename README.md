@@ -1,1 +1,1 @@
-# git-conflict-challenge
+# Ceci est mon projet de gestion de conflits
